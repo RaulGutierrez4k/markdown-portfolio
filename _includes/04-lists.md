@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. comer :hamburger::fries:
+2. dormir :zzz:
+3. jogar :computer:
+   1.  cs
+   2.  R6
